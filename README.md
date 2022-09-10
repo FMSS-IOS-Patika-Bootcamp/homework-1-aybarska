@@ -1,10 +1,28 @@
-# FMSS-Homework-1
-Homework-1
 
-İki tane sayfa olucak
+# AppIdeaz
 
-İlk sayfadan ikinci sayfaya gidilicek
+Save your app ideas with AppIdeaz.
 
-İkinci sayfada textfieldlar olucak buraya girilen verileri ilk sayfada gösterilecek
 
-İster delegeta ister notification ister clouser
+
+## Features
+
+- Check completed ideas(swipe right)
+- Edit ideas by tapping title
+- Delete bad ones 😑(swipe left)
+- Use edit mode for reorder ideas 
+
+
+## Installation
+
+Clone, Download the Repository
+
+```bash
+and run with Xcode
+```
+    
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
